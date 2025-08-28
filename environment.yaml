@@ -1,0 +1,9 @@
+name: pdf_name_change
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - PyPDF2
+      - openai
+      - Flask
+      - pyinstaller

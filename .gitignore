@@ -1,0 +1,29 @@
+# Ignore build and dist folders
+build/
+dist/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore backup and log files
+*.bak
+*.log
+
+# Ignore last input cache
+last_inputs.json
